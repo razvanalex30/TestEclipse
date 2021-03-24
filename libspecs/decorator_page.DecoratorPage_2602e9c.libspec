@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywordspec name="decorator_page.DecoratorPage" type="LIBRARY" format="ROBOT" scope="TEST" namedargs="true" generated="2021-03-24T13:49:51Z" specversion="2" source="C:\Users\RAlexandru\Documents\Proiecte Eclipse\tesv2\decorator_page.py" lineno="24">
+<version />
+<scope>test case</scope>
+<namedargs>yes</namedargs>
+<doc>Documentation for library ``decorator_page.DecoratorPage``.</doc>
+<kw name="Open Content Examples" lineno="28">
+<arguments>
+</arguments>
+<doc>Method used to click on the Examples submenu from the Contents menu</doc>
+</kw>
+<kw name="Verify Example Count" lineno="39">
+<arguments>
+</arguments>
+<doc>Verify the number of examples presented in the Examples paragraph of the page
+:return: True if the number of examples in the Example sections is 5, False otherwise</doc>
+</kw>
+</keywordspec>

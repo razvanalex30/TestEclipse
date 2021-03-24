@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywordspec name="downloads_page.DownloadPage" type="LIBRARY" format="ROBOT" scope="GLOBAL" namedargs="true" generated="2021-03-24T13:49:42Z" specversion="2" source="C:\Users\RAlexandru\Documents\Proiecte Eclipse\tesv2\downloads_page.py" lineno="12">
+<version />
+<scope>global</scope>
+<namedargs>yes</namedargs>
+<doc>Documentation for library ``downloads_page.DownloadPage``.</doc>
+<kw name="Date Parse" lineno="25">
+<arguments>
+<arg>input_str</arg>
+</arguments>
+<doc />
+</kw>
+<kw name="Date Parse 2" lineno="20">
+<arguments>
+<arg>input_str</arg>
+</arguments>
+<doc />
+</kw>
+<kw name="Retrieve Table Version" lineno="68">
+<arguments>
+</arguments>
+<doc />
+</kw>
+<kw name="Retrieve Version" lineno="41">
+<arguments>
+</arguments>
+<doc>Method used to retrieve the last python version from the table available in All releases</doc>
+</kw>
+<kw name="String Parse" lineno="32">
+<arguments>
+<arg>input_str</arg>
+</arguments>
+<doc>Method used to retrieve the Python Version
+:param input_str: Python Version string obtained from the site
+:return: Retains only the version number</doc>
+</kw>
+</keywordspec>

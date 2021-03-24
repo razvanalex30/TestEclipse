@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywordspec name="primary_page.PrimaryPage" type="LIBRARY" format="ROBOT" scope="TEST" namedargs="true" generated="2021-03-24T11:30:58Z" specversion="2" source="C:\Users\RAlexandru\Documents\Proiecte Eclipse\tesv2\primary_page.py" lineno="12">
+<version />
+<scope>test case</scope>
+<namedargs>yes</namedargs>
+<doc>Documentation for library ``primary_page.PrimaryPage``.</doc>
+<kw name="Navigate Menu Submenu" lineno="14">
+<arguments>
+<arg>menu</arg>
+<arg>submenu</arg>
+</arguments>
+<doc />
+</kw>
+<kw name="Search" lineno="24">
+<arguments>
+<arg>search_string</arg>
+</arguments>
+<doc>Method used to search in the search bar of the site and press Enter to find results</doc>
+</kw>
+</keywordspec>
