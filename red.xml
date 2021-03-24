@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectConfiguration>
+    <configVersion>2</configVersion>
+    <relativeTo>WORKSPACE</relativeTo>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="C:/Users/RAlexandru/AppData/Local/Programs/Python/Python39/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="downloads_page.DownloadPage" path="tesv2/downloads_page.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="primary_page.PrimaryPage" path="tesv2/primary_page.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="driver_cr.SeleniumLibraryExt" path="tesv2/driver_cr.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="result_page.ResultPage" path="tesv2/result_page.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="decorator_page.DecoratorPage" path="tesv2/decorator_page.py" dynamic="false"/>
+    <pythonpath/>
+    <classpath/>
+    <excludedForValidation/>
+    <isValidatedFileSizeCheckingEnabled>true</isValidatedFileSizeCheckingEnabled>
+    <validatedFileMaxSize>1024</validatedFileMaxSize>
+</projectConfiguration>
